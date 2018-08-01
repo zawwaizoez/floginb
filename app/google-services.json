@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1021535284560",
+    "firebase_url": "https://floginb-85e4b.firebaseio.com",
+    "project_id": "floginb-85e4b",
+    "storage_bucket": "floginb-85e4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021535284560:android:70c8f96836c53705",
+        "android_client_info": {
+          "package_name": "com.example.begin_again.floginb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021535284560-7iopfhdalmnvjut82u5t21c6b4bs7nlp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.begin_again.floginb",
+            "certificate_hash": "5a8d177f9078585134b1313b109fa187769a7a8f"
+          }
+        },
+        {
+          "client_id": "1021535284560-mrq00bvqef9l5hijn29fnnrmhn8iut2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhsusJ-tHEGn0tANhWQQOA7DemikXi7_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021535284560-mrq00bvqef9l5hijn29fnnrmhn8iut2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
